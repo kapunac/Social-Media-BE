@@ -7,5 +7,5 @@ Contains:
 - 'Like'/'Vote' System
 
 
-## Note: This was build for educational purposes, to help a friend learn Frontend and needed a functional Backend for a full working experience.
-## If anyone copies the code, do update the packages before going forward with the app
+### Note: This was build for educational purposes, to help a friend learn Frontend and needed a functional Backend for a full working experience.
+#### If anyone copies the code, do update the packages before going forward with the app
